@@ -32,7 +32,7 @@
 5. 运行脚本：
 
    ```shell
-   python calculate_duration.py
+   python ENG_dur_num.py
    ```
 
    按照提示输入输入的 CSV 文件名。
