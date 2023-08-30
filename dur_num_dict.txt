@@ -1,0 +1,1 @@
+vowels=aa ae ah ao2 aw ay eh er2 ey ih iy ow oy uh uw
